@@ -8,5 +8,5 @@ setup(
     maintainer='linly',
     maintainer_email='linly@hdinvesting.cn',
     description='test python package.',
-    scripts=[r"script/test.py"]
+    scripts=[r"script/test.py",r"script/read_config.py"]
 )
